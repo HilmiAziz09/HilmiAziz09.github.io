@@ -1,0 +1,94 @@
+{
+  "result": [
+  {
+    "no": "1",
+    "nama": "Indonesia",
+    "Ibu_kota": "Jakarta",
+    "Bahasa_nasional": "Indonesia",
+    "Mata_Uang": "Rupiah",
+    "Kemerdekaan": "17 Agustus 1945",
+    "Poster": "https://i.postimg.cc/qvtp69dD/indonesia.jpg"
+  },
+  {
+    "no": "2",
+    "nama": "Brunei Darussalam",
+    "Ibu_kota": "Bandar Seri Begawan",
+    "Bahasa_nasional": "Melayu",
+    "Mata_Uang": "Dolar Brunei Darussalam",
+    "Kemerdekaan": "1 Januari 1984",
+    "Poster": "https://i.postimg.cc/zDtmw07s/brunei.jpg"
+  },
+  {
+    "no": "3",
+    "nama": "Filipina",
+    "Ibu_kota": "Manila",
+    "Bahasa_nasional": "Filipino",
+    "Mata_Uang": "Peso",
+    "Kemerdekaan": "12 Juni 1898",
+    "Poster": "https://i.postimg.cc/7LDQr2X1/filipina.jpg"
+  },
+  {
+    "no": "4",
+    "nama": "Kamboja",
+    "Ibu_kota": "Phnom Penh",
+    "Bahasa_nasional": "Khmer",
+    "Mata_Uang": "Riel",
+    "Kemerdekaan": "9 November 1953",
+    "Poster": "https://i.postimg.cc/85XyvnGw/kamboja.jpg"
+  },
+  {
+    "no": "5",
+    "nama": "Laos",
+    "Ibu_kota": "Vientiane",
+    "Bahasa_nasional": "Lao",
+    "Mata_Uang": "Kip",
+    "Kemerdekaan": "19 Juli 1949",
+    "Poster": "https://i.postimg.cc/MGT3GS2X/laos.jpg"
+  },
+  {
+    "no": "6",
+    "nama": "Malaysia",
+    "Ibu_kota": "Kuala Lumpur",
+    "Bahasa_nasional": "Melayu",
+    "Mata_Uang": "Ringgit",
+    "Kemerdekaan": "31 Agustus 1957",
+    "Poster": "https://i.postimg.cc/Qx36T5G2/malaysia.jpg"
+  },
+  {
+    "no": "7",
+    "nama": "Singapura",
+    "Ibu_kota": "Kota Singapura",
+    "Bahasa_nasional": "Melayu",
+    "Mata_Uang": "Dolar Singapura",
+    "Kemerdekaan": "9 Agustus 1965",
+    "Poster": "https://i.postimg.cc/rwhg3P0T/singapura.jpg"
+  },
+  {
+    "no": "8",
+    "nama": "Thailand",
+    "Ibu_kota": "Bangkok",
+    "Bahasa_nasional": "Thai",
+    "Mata_Uang": "Baht",
+    "Kemerdekaan": "-",
+    "Poster": "https://i.postimg.cc/BZxp46LM/thailand.jpg"
+  },
+  {
+    "no": "9",
+    "nama": "Timor Leste",
+    "Ibu_kota": "Dili",
+    "Bahasa_nasional": "Portugis",
+    "Mata_Uang": "Koin centavo Timor Leste",
+    "Kemerdekaan": "28 November 1975",
+    "Poster": "https://i.postimg.cc/65WrKhNp/timor-leste.jpg"
+  },
+  {
+    "no": "10",
+    "nama": "Vietnam",
+    "Ibu_kota": "Hanoi",
+    "Bahasa_nasional": "Vietnam",
+    "Mata_Uang": "Đồng",
+    "Kemerdekaan": "2 September 1945",
+    "Poster": "https://i.postimg.cc/s2hSm65w/vietnam.jpg"
+  }
+ ]
+}
